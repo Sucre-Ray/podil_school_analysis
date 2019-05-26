@@ -13,6 +13,10 @@
 2. install modules from requirements.txt
 3. set up HERE_MAPS_APP_ID, HERE_MAPS_APP_CODE env variables for here maps api. How to obtain https://developer.here.com
 4. run script
+### Known issues
+1. несколько школ имеют одинаковый номер, например школа номер 19 (школа интернат и межигорская гимназия)
+в данном решении выбирается школа интернат (неверно)
+2. некоторые адреса явно не из подольского района (на троещине или красном хуторе), нужно проверить в дальнейшем.
 ### text results
 distance_bucket
 
