@@ -4,6 +4,6 @@ GDAL==2.4.1
 geopandas==0.5.0
 gevent==1.4.0
 pandas==0.24.2
-requests==2.22.0
+requests==2.31.0
 Shapely==1.6.4.post2
 
